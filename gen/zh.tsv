@@ -1,0 +1,593 @@
+UNDO	撤销
+action_autocomplete	自动补全
+action_continue	继续
+action_delete	删除
+action_get_help	获取存储权限
+action_getnames	获取名称
+action_go_to_assignments	转到赋值处
+action_go_to_definitions	转到定义
+action_gotoline	转到行
+action_gotoline_hint	转到行
+action_new_folder	新建文件夹
+action_open_project	打开项目
+action_open_project_view	打开项目视图
+action_press_tab_title	Tab
+action_redo	重做
+action_rename	重命名
+action_run_foreground	最小化
+action_run_in_terminal	在终端中运行
+action_run_sdl2	运行 SDL2
+action_run_with_arguments	带参数运行
+action_search	搜索
+action_search_hint	搜索
+action_search_jump_backward	向后跳转
+action_search_jump_forward	向前跳转
+action_search_lib	搜索
+action_settings	设置
+action_tabbackward	上一个标签
+action_tabforward	下一个标签
+action_undo	撤销
+action_update_to_project	升级为项目
+activity_shortcut_create	终端快捷方式
+activity_term_here_title	在此打开终端
+alert_perm_den_message	需要权限才能继续
+alert_perm_den_pos	确定
+alert_perm_den_title	授予权限
+all	全部
+already_have_this_file	此文件夹中已有同名文件，是否覆盖？
+alt_sends_esc	Alt 键发送 ESC
+alt_sends_esc_summary_off	Alt 键不发送 ESC。
+alt_sends_esc_summary_on	Alt 键发送 ESC。
+analysis_convention	约定
+analysis_error	错误
+analysis_fatal	致命错误
+analysis_hint	提示
+analysis_information	信息
+analysis_refactor	重构
+analysis_warning	警告
+app_name_from_build	Pydroid 3
+appearance_app_theme_summary	重启后主题将变更
+application_terminal	终端模拟器
+attachment_summary_off	仅在手动请求时下载附件
+attachment_summary_on	自动下载收到的邮件附件
+attachment_title	下载收到的附件
+bad_input_is_empty_mask	%s 为空
+cancel	取消
+category	分类：
+category_descr_all	全部示例
+checkSharedLibsDialogMessage	由于近期 Android 系统的一个缺陷，Kivy 模式下需要使用 dlopen 补丁来替代现已缺失的 LD_LIBRARY_PATH 功能。该方案并不完全稳定，Kivy 可能在启动时崩溃。按「确定」启用，或按「取消」用 ctypes 手动加载共享库。
+checkSharedLibsDialogTitle	检测到自定义共享库
+check_libraries_repository	使用预编译库仓库
+clear_text_end_icon_content_description	清除文字
+close	关闭
+close_window	关闭窗口
+cmake_add_failed_format	解析 CMakeLists.txt 失败，请手动添加此库
+cmake_add_failed_io	添加库时发生未处理异常
+cmake_add_failed_no_libs	尚未安装任何库，没有可添加项
+code_analysis_convention	约定
+code_analysis_convention_summary	要显示的约定列表
+code_analysis_disable_msg	禁用此消息
+code_analysis_disable_msgs	禁用消息
+common_open_on_phone	在手机上打开
+common_signin_button_text	登录
+common_signin_button_text_long	使用 Google 账号登录
+compiler_output	编译器输出
+complete	完成
+confirm_removal	请确认删除文件
+confirm_removal_message	确定要删除 %s 吗？
+confirm_window_close_message	关闭此窗口？
+consent_status_summary	同时控制广告个性化与崩溃报告及分析数据收集
+consent_status_title	允许数据收集
+control_key_dialog_control_disabled_text	未设置控制键。
+control_key_dialog_fn_disabled_text	未设置功能键。
+control_key_dialog_title	控制键与功能键
+copy_all	全部复制
+copy_paste_mode_comment_text	注释
+copy_paste_mode_copy	复制
+copy_paste_mode_cut	剪切
+copy_paste_mode_paste	粘贴
+copy_paste_mode_select_all	全选
+copy_pastemode_comment_or_uncomment_text	注释/取消注释
+copy_pastemode_uncomment_text	取消注释
+create	创建
+creating_project	正在创建项目
+delete	删除
+dialog_allow	允许
+dialog_deny	拒绝
+dialog_do_you_want_to_save_changes	要保存更改吗？
+dialog_enter_name_title	文件名
+dialog_go_to_line_positive_button_find	转到
+dialog_title	文件选择器
+dialog_title_actionbar_preference	操作栏行为
+dialog_title_backaction_preference	返回键行为
+dialog_title_color_preference	文字颜色
+dialog_title_controlkey_preference	控制键
+dialog_title_cursorblink_preference	光标闪烁
+dialog_title_cursorstyle_preference	光标样式
+dialog_title_fnkey_preference	Fn 键
+dialog_title_fontsize_preference	字体大小
+dialog_title_ime_preference	输入法
+dialog_title_initialcommand_preference	初始命令
+dialog_title_orientation_preference	屏幕方向行为
+dialog_title_shell_preference	Shell
+dialog_title_statusbar_preference	状态栏
+dialog_title_termtype_preference	终端类型
+disable_wakelock	释放唤醒锁
+disable_wifilock	释放 WiFi 锁
+do_you_want_install_it	现在安装缺失的库吗？
+doc_dir_sync_dialog_title	正在同步文件…
+donate_1	捐助 $1
+donate_10	捐助 $10
+donate_2	捐助 $2
+donate_3	捐助 $3
+donate_5	捐助 $5
+download_sample	下载
+edit_text	编辑文字
+editor_btn_bar_summary	插入按钮之间以空格分隔
+editor_btn_bar_title	工具栏按钮列表
+editor_open_last_files	退出时保留文件
+editor_open_last_files_summary	关闭应用时保存文件状态，再次打开时恢复
+editor_tools	编辑器工具
+email_transcript_chooser_title	通过以下方式发送记录：
+email_transcript_no_email_activity_found	找不到可发送记录的邮件应用。
+email_transcript_subject	Android 终端模拟器记录
+enable_android7_hack_btn	确定
+enable_wakelock	获取唤醒锁
+enable_wifilock	获取 WiFi 锁
+enter_another	再输入一个
+enter_command_dialog_pip	pip
+enter_command_pip_hint	install requests
+enter_name_dialog_name	名称：
+enter_name_dialog_positive_button	保存
+enter_name_dialog_title	保存文件
+enter_pip_command_dialog_positive_button	运行
+exit	退出
+exit_someone_has_changes_dialog	有文件未保存，要保存更改吗？
+extracing_files	正在解压文件
+extract_sample	解压
+fatal_error_msg	应用发生致命错误，无法继续。
+fcm_fallback_notification_channel_label	其他
+feedback_send	发送
+feedback_send_hint	告诉我们你的改进建议
+file_already_exists	文件 %s 已存在
+file_group_title	文件
+file_tools	文件工具
+file_was_saved_part1	文件：
+file_was_saved_part2	已保存
+file_wasnot_saved	文件未保存！
+fix_it	修复
+folder_name	Pydroid3
+following_libraries_are_missing	以下库缺失：
+forever_offer_text_1	永久购买
+forever_offer_text_2	支付 %s 一次，永久使用高级功能
+forever_offer_text_2_unloaded	一次付费，永久使用高级功能
+found_libraries	发现缺失的库
+fsnavigator_change_theme	切换主题
+fsnavigator_no_external_storage	外部存储不可用
+fsnavigator_optional_enter_path	或在此输入路径。
+fsnavigator_title	文件选择
+get_file_cancel	取消
+get_file_confirm	确认
+get_file_confirm_delete	确认删除
+get_file_confirm_delete_desc	确定要删除此文件或文件夹吗？
+get_name_dialog_title	名称
+get_name_dialog_type_all	全部
+get_name_dialog_type_class	类
+get_name_dialog_type_forsmth	循环
+get_name_dialog_type_func	函数
+get_name_dialog_type_import	导入
+get_name_dialog_type_statement	语句
+go_to_gp	前往 Google Play
+go_to_gp_dialog_cancel	取消
+go_to_gp_dialog_ok	确定
+go_to_line_dialog_line	行：
+go_to_line_dialog_title_lines	输入行号：1 -
+help	帮助
+help_allow	允许
+help_message	要管理文件，请在系统设置中授予本应用访问所有文件的权限
+help_title	需要「所有文件访问权限」！
+icon_content_description	对话框图标
+install	安装
+install_pydroid_quick_install_repository_confirm_disable	确定要禁用预编译库仓库吗？
+install_pydroid_quick_install_repository_confirm_disable_desc	禁用后，部分库需手动安装依赖才能使用，构建时间将明显增加，同时将失去对高级专属库的访问。
+install_pydroid_quick_install_repository_disable	禁用仓库
+install_pydroid_quick_install_repository_install	获取插件
+install_pydroid_quick_install_repository_title	缺少 Pydroid 仓库插件
+installing_python	正在安装 Python…
+installing_wait	安装中…请稍候
+jedi_tools	Jedi 工具
+just_logs	日志
+keep_old_android7_hack_btn	取消
+keyboard_preferences	键盘
+lang_name	Python 3
+last_opened	最近打开
+logs	%s 日志
+messages_header	消息
+ministro_needed_msg	本应用需要 Ministro 服务支持，是否前往 Google Play 安装？
+native_body	正文
+native_headline	标题
+native_media_view	媒体视图
+new_file_text	newfile.py
+new_file_text2	new_file.py
+new_folder_text	新建文件夹
+new_window	新建窗口
+next_window	下一个窗口
+no	否
+no_assignments_found	未找到赋值
+no_code_names_found	未找到名称
+no_definitions_found	未找到定义
+no_permission	无权限：
+no_project_opened_text	项目视图仅在项目中可用
+no_recentfiles_found	没有最近文件
+not_interested	不感兴趣
+notifications_permission_confirm	允许
+notifications_permission_decline	不允许
+notifications_permission_title	允许应用向你发送通知吗？
+offline_notification_text	点按打开广告
+offline_notification_title	查看离线时保存的广告
+offline_opt_in_confirm	确定
+offline_opt_in_confirmation	重新联网后你将收到包含链接的通知
+offline_opt_in_decline	不用了
+offline_opt_in_message	我们将向你发送包含广告主网站链接的通知。
+offline_opt_in_title	重新联网后打开广告。
+onboarding_paywall_desc	这些高级功能专为你挑选
+onboarding_q1_o1	我完全是新手
+onboarding_q1_o2	我做过一些小项目
+onboarding_q1_o3	我是有经验的程序员
+onboarding_q1_title	你的 %LANGNAME% 编程经验如何？
+onboarding_q2_o1	学习，我打算学习 %LANGNAME%
+onboarding_q2_o2	爱好，我打算用它来玩
+onboarding_q2_o3	工作，我打算做些快速原型、软件移植或教学
+onboarding_q2_title	你打算用 %APPNAME% 做什么？
+onboarding_q3_o1	简单的终端或网页程序
+onboarding_q3_o2	图形界面程序
+onboarding_q3_o3	机器学习和人工智能程序
+onboarding_q3_title	你打算运行哪类程序？
+onboarding_settings1_desc	每次关闭应用时自动保存编辑器状态，避免意外丢失数据
+onboarding_settings2_desc	始终使用深色主题。否则跟随系统设置
+onboarding_settings3_desc	让 Tab 键插入空格：这属于个人偏好，若你无所谓，建议保留 Tab 键插入制表符。在 Python 中保持缩进风格一致非常重要
+onboarding_settings_desc	之后你可以从侧边菜单进入这些及其他设置
+onboarding_settings_title	来调整一些偏好设置
+onboarding_title_2	你的编程经验如何？
+onboarding_title_3	你打算用 @string/app_name 做什么？
+onboarding_title_4	你打算编写哪类程序？
+onboarding_welcome_title	欢迎使用 %1$s！
+open_file_problem	打开文件出错
+open_new_file_title	新建
+open_sample	打开
+others_perm_denied	没有权限无法继续
+overflow_menu	工具
+override	覆盖
+paste	粘贴
+pastebin_copy_url	复制链接
+pastebin_load	粘贴已发布！
+pastebin_post_error	PasteBin：出错了：
+pastebin_send_url	发送链接
+pastebin_url_was_copied	链接已复制
+pastebin_warning_desc	你的源代码将只能通过直接链接在 pastebin.com 上查看
+pastebin_warning_neveragain	不再询问
+pastebin_warning_title	确定要发布这段粘贴内容吗？
+path_field_hint	不保存请留空
+paywall_ads	无论你打算用 Pydroid 3 做什么，没有广告总是件好事
+paywall_code_analysis_advanced	实时分析能在写代码的同时捕获一些复杂缺陷
+paywall_code_analysis_basic	实时错误检查可让你快速、轻松地发现并修复程序中的错误
+paywall_code_prediction_advanced	代码补全能大幅提升效率，是各类专业工作的必备功能
+paywall_code_prediction_basic	自动代码补全让在移动设备上编程也变得快速有趣
+paywall_libs_ai	这些库中包含定制移植的 TensorFlow 与 PyTorch
+paywall_libs_gui	借助 Kivy、Plyer 与 OpenCV 计算机视觉库打造功能完备的图形界面应用
+paywall_libs_reason_basic	无限制安装任何高级库
+paywall_proceed	继续
+paywall_proceed_trial	免费试用
+pdb_add_watch	添加监视
+pdb_add_watch_add	添加
+pdb_add_watch_message	输入监视表达式
+pdb_add_watch_title	添加监视
+pdb_continue	继续
+pdb_detach	分离
+pdb_next	下一步
+pdb_return	返回
+pdb_set_watch_message_for	为 %1$s 输入新值
+pdb_set_watch_set	设置
+pdb_set_watch_title	设置监视
+pdb_step	单步
+pdb_text	等待 PDB…
+pdb_watch_already_exists	监视已存在
+perm_append_to_path	向终端模拟器添加命令
+perm_prepend_to_path	覆盖终端模拟器中的命令
+perm_run_script	在终端模拟器中运行任意命令
+permdesc_append_to_path	允许应用为 Android 终端模拟器提供附加命令（将目录加入 PATH）。
+permdesc_prepend_to_path	允许应用以自有版本覆盖 Android 终端模拟器中的现有命令（将目录前置到 PATH）。
+permdesc_run_script	允许应用在 Android 终端模拟器中打开新窗口，并以终端模拟器的全部权限（含网络与 SD 卡访问）运行命令。
+pick_dir_title	选择目录
+pip_command_hint	库名称
+pip_exec_title	安装
+pip_install_fragment_title	安装
+pip_list_fragment_title	库
+pip_premium_only	此库需要高级版
+pip_search_hint	库名称（或其片段）…
+pip_search_lib_fragment_title	搜索库
+pip_search_title	搜索
+please_pick_correct_dir	无法确认所选目录为 %s。请选择正确目录，以便 %s 继续
+please_pick_correct_dir_title	配置错误
+pref_appearance_app_theme	应用主题
+pref_appearance_editor_theme	编辑器主题
+pref_appearance_editor_theme_dark	编辑器主题（深色）
+pref_appearance_fullscreen	全屏
+pref_appearance_fullscreen_summary	隐藏状态栏
+pref_appearance_theme	主题
+pref_category_gui_settings	图形界面设置
+pref_code_analysis_enabled	启用
+pref_code_analysis_show_convention	显示约定
+pref_code_analysis_show_error	显示错误
+pref_code_analysis_show_fatal	显示致命错误
+pref_code_analysis_show_refactor	显示重构
+pref_code_analysis_show_warning	显示警告
+pref_default_display_name	John Smith
+pref_description_social_recommendations	根据你的消息记录推荐可联系的人
+pref_editor_allow_suggestions	允许键盘联想
+pref_editor_autoinsert_braces	自动补全引号/括号
+pref_editor_autosave	自动保存文件
+pref_editor_btn_bar	按钮栏
+pref_editor_dark	深色主题
+pref_editor_dark_summary	未设置时跟随系统默认主题
+pref_editor_font	字体
+pref_editor_font_size	字体大小
+pref_editor_tab_insert_spaces	Tab 插入空格
+pref_editor_tab_length	Tab 长度
+pref_editor_volume_nav	音量键导航
+pref_editor_word_wrap	自动换行
+pref_header_about	关于与法律信息
+pref_header_appearance	外观
+pref_header_code_analysis	代码分析
+pref_header_data_sync	数据与同步
+pref_header_editor	编辑器
+pref_header_general	通用
+pref_header_notifications	通知
+pref_header_system	系统
+pref_interpreter_name	解释器名称
+pref_interpreter_name_default_value	python3
+pref_interpreter_name_summary	选择「解释器」菜单项时运行的程序
+pref_omp_num_threads_name	OMP_NUM_THREADS 值
+pref_omp_num_threads_summary	使用 OpenMP 的库（如 OpenBLAS）所用的线程数，同时影响内存占用
+pref_pro_info_summary	此版本亦适用于非个人使用，每份购买对应一台设备
+pref_pro_info_title	专业版许可
+pref_pro_support_summary	专业版用户可使用单独的 Pro 专属邮箱获取支持
+pref_pro_support_title	联系支持
+pref_ringtone_silent	静音
+pref_shell_default	/system/bin/sh -
+pref_shell_path	自定义 shell 路径
+pref_shell_path_summary	运行程序所用 shell 的绝对路径（留空为默认）
+pref_summary_double_back_quit	使用双击返回键关闭图形界面程序
+pref_summary_first_fullscreen	启用时，创建的第一个窗口自动全屏
+pref_summary_kbd	启用时，程序启动时显示键盘
+pref_summary_show_titlebar	未启用时，程序以全屏模式运行
+pref_summary_use_android7_hack	仅在你拥有自定义共享库时使用
+pref_termtype_default	screen
+pref_title_add_friends_to_messages	将朋友添加到消息
+pref_title_display_name	显示名称
+pref_title_double_back_quit	双击返回退出
+pref_title_enable_autocomplete	启用自动补全
+pref_title_first_fullscreen	Tkinter：首窗口最大化
+pref_title_new_message_notifications	新消息通知
+pref_title_pip_build_isolation	禁用 pip 构建隔离
+pref_title_ringtone	铃声
+pref_title_social_recommendations	启用社交推荐
+pref_title_sync_frequency	同步频率
+pref_title_system_sync_settings	系统同步设置
+pref_title_use_android7_hack	启用 Kivy dlopen 补丁
+pref_title_vibrate	振动
+preferences	偏好设置
+premium	高级版
+prev_window	上一个窗口
+process_exit_message	程序已结束
+process_problem	问题
+project_id	iiec-pydroid
+project_name	项目：%s
+promo_text_after_run	一直想学 C++ 却不敢开始？现在可以了——用我们全新的 C++ IDE「Cxxdroid」，体验与 Pydroid 同样舒适。
+promo_text_install	看看我们全新的 C++ IDE，用起来和 Pydroid 一样顺手简单。开箱即用：两次点击即可安装最流行的库。
+promo_title_after_run	试试我们新的 C++ IDE
+promo_title_install	Pydroid 安装中…
+public_directory_help_dialog_pos	开始
+public_directory_help_dialog_title	公共文档目录配置
+purchase_cancel	取消
+purchase_freetitle	免费
+purchase_p1	基础代码编辑器
+purchase_p2	基础库
+purchase_p2_1	高级库
+purchase_p3	代码预测
+purchase_p4	代码分析
+purchase_p5	无广告
+purchase_premium	购买
+purchase_premium_dialog_pos	购买
+purchase_premium_dialog_title	选择你的方案
+purchase_premium_dialog_title_no_subscriptions	获取高级版
+purchase_premium_forever	永久购买
+purchase_premium_mounthly	免费试用
+purchase_premium_mounthly_old	按月订阅
+purchase_premium_text_bottom	免费试用结束后将自动转为付费订阅（如果你未取消）。订阅会自动续期并按月扣费。你可随时在 Google Play 取消或管理订阅。
+purchase_premiumtitle	高级版
+purchase_purchase	购买
+purchase_subscription	订阅
+py_promo_text_install	看看我们为 Python 设计的 IDE，用起来和 Cxxdroid 一样顺手简单。开箱即用：两次点击即可安装最流行的库。
+py_promo_title_install	与此同时…
+pydroid_need_permplugin	缺少 Pydroid 权限插件
+pydroid_need_permplugin_get	获取插件
+qt_do_you_want_install_it	是否从「快速安装」中安装？
+qt_is_not_installed	你正尝试运行 PySide6 程序，但未安装 PySide6 模块
+quick_install_fragment_title	快速安装
+quick_install_ok	确定
+quick_install_summary	从含预编译 wheel 包的仓库安装
+rate_dialog_default_message	请告诉我们你有多喜欢这个应用
+rate_dialog_default_never_button_text	关闭
+rate_dialog_default_not_now_button_text	以后再说
+rate_dialog_default_rate_button_text	确定
+rate_dialog_default_title	评价 %s
+rationale_for_others	我们需要权限才能继续
+rationale_for_samples	我们需要权限才能保存下载的示例
+re_turn	返回
+recent_files_dialog_title	最近文件
+recent_opened_files	最近打开
+remarket_paywall_desc	高级版让你可以使用 Pydroid 的全部功能
+remarket_paywall_title	限时优惠
+remove	移除
+removed_tab	已关闭：
+repick_correct_dir	重试
+reply_title	默认回复操作
+require_premium_libs	这些示例需要高级专属库。
+reset	重置终端
+reset_toast_notification	此窗口的终端状态已重置。
+review_0	这个应用是练习 Python 代码的绝佳控制台，而且完全离线，对我来说太合适了。
+review_1	非常好用！文本编辑器出乎意料地好用，脚本运行又快又流畅。干得漂亮！
+review_2	非常适合随时随地测试代码。如果你有蓝牙键盘甚至鼠标，完全可以替代笔记本电脑。
+review_3	终于找到我想要的应用了。我用 Pydroid 3 有一段时间了，感觉很有意思。试试吧！
+review_4	目前 Android 上最好的 Python IDE。我做过几个大项目，它都能应付得来。
+review_5	用了一段时间后我买了付费版，想看看它到底多好用。毫无疑问是我最爱的手机 IDE，运行得非常好。爱了！
+review_6	市面上最好的移动 IDE。作为长期用户，它一直快速、可靠，非常适合我能想到的任何用途
+revome_all_libs	干净安装
+run	运行
+run_code_with_params	输入命令行参数
+run_group_title	运行
+running_without_permission	无权限运行
+s1	保存图片
+s2	允许广告将图片存入相册？
+s3	接受
+s4	拒绝
+s5	创建日历事件
+s6	允许广告创建日历事件？
+s7	测试广告
+samples_perm_denied	无权限保存示例
+samples_title_courses	课程
+samples_title_samples	示例
+samples_title_tutorials	教程
+save	保存
+save_all	全部保存
+scoped_dialog_help_neg	取消
+scoped_dialog_help_pos	授予权限
+scoped_dialog_help_pos_cool	好的
+scoped_dialog_help_title_help	分区存储说明
+scoped_dialog_help_title_welcome	分区存储说明
+screen_preferences	屏幕
+search_dialog_check_match_case	区分大小写
+search_dialog_negative_button	取消
+search_dialog_negative_button_replace	替换
+search_dialog_neutral_button_replace_all	全部替换
+search_dialog_positive_button_find	查找
+search_dialog_replace	替换为：
+search_dialog_search	查找：
+search_dialog_title	查找与替换
+search_title	搜索
+search_toast_N_matches	处匹配：
+search_toast_no_matches	无匹配：
+section_format	来自 section 的问候：%1$d
+select_text	选择文字
+send_control_key	发送控制键
+send_email	分享
+send_fn_key	发送功能键
+service_notify_text	终端会话运行中
+settings_group_title	设置
+share_with_friends	与朋友分享应用
+sharedUserLabel	Pydroid
+shell_preferences	Shell
+show	显示
+show_dialog_path	下载到：
+show_extract_dialog_path	解压到：
+show_logs	%s 日志
+signature_title	你的签名
+snack_ads_action	移除广告
+snack_ads_message_1	不喜欢广告？
+snack_ads_message_2	厌倦了广告？
+special_keys	特殊按键
+sub_offer_text_1_unloaded	订阅
+sub_offer_text_2	试用结束后 %s/月
+sub_offer_text_2_unloaded	试用结束后按月订阅
+subscription_manage_message	如果你有生效中的订阅需要取消、升级、降级或变更，可以先取消它再订阅新方案
+subscription_manage_positive	管理
+subscription_manage_title	订阅管理
+success_install	Python 安装成功
+summary_actionbar_preference	选择操作栏的行为。
+summary_allow_prepend_path_preference	是否允许其他应用覆盖现有命令（加入 PATH 开头）。
+summary_backaction_preference	选择按下返回键时的行为。
+summary_close_window_on_process_exit_preference	窗口的 shell 退出时是否关闭该窗口。
+summary_color_preference	选择文字颜色。
+summary_controlkey_preference	选择控制键。
+summary_cursorblink_preference	选择光标闪烁方式。
+summary_cursorstyle_preference	选择光标样式。
+summary_do_path_extensions_preference	是否允许其他应用提供附加命令（加入 PATH）。
+summary_fnkey_preference	选择 Fn 键。
+summary_fontsize_preference	选择字符高度（磅）。
+summary_home_path_preference	用作 HOME 的可写文件夹路径。
+summary_ime_preference	选择软键盘的输入法。
+summary_initialcommand_preference	shell 启动时向其发送的命令。
+summary_mouse_tracking_preference	点击与滚动事件是否以转义序列发送给终端。
+summary_orientation_preference	选择屏幕方向行为。
+summary_shell_preference	指定 shell 命令行。
+summary_statusbar_preference	显示/隐藏状态栏。
+summary_termtype_preference	向 shell 报告的终端类型。
+summary_utf8_by_default_preference	是否默认启用 UTF-8 模式。
+summary_verify_path_preference	是否从 PATH 中移除不可访问的目录。
+sync_header	同步
+sync_title	定期同步邮件
+system_pylint_args_default_value	--disable=W0311,W0312,W0614 --generated-members=torch.* --ignored-modules=cv2,pygame
+system_pylint_args_summary	Linter 参数（需重启）
+system_pylint_args_title	附加 pylint 参数
+text_preferences	文本
+text_selection_copy	复制
+text_selection_cut	剪切
+text_selection_select_all	全选
+text_was_copied	文字已复制
+title_actionbar_preference	操作栏
+title_activity_new_settings	设置
+title_activity_pip	Pip
+title_activity_pip2	Pip
+title_activity_recent_files	最近文件
+title_activity_sample_files	示例文件
+title_activity_samples	示例
+title_activity_settings	设置
+title_allow_prepend_path_preference	允许 PATH 前置
+title_backaction_preference	返回键行为
+title_close_window_on_process_exit_preference	退出时关闭窗口
+title_color_preference	颜色
+title_controlkey_preference	控制键
+title_cursorblink_preference	光标闪烁
+title_cursorstyle_preference	光标样式
+title_do_path_extensions_preference	允许 PATH 扩展
+title_dpi_tkinter	Tkinter：屏幕 DPI
+title_fnkey_preference	Fn 键
+title_fontsize_preference	字体大小
+title_home_path_preference	HOME 文件夹
+title_ime_preference	输入法
+title_initialcommand_preference	初始命令
+title_kbd_pygame	Pygame：显示键盘
+title_kbd_sdl2	SDL2：显示键盘
+title_mouse_tracking_preference	发送鼠标事件
+title_orientation_preference	屏幕方向
+title_sample_detail	示例详情
+title_sample_list	示例
+title_shell_preference	命令行
+title_show_titlebar_kivy	Kivy：显示标题栏
+title_show_titlebar_pygame	Pygame：显示标题栏
+title_show_titlebar_sdl2	SDL2：显示标题栏
+title_show_titlebar_tkinter	Tkinter：显示标题栏
+title_statusbar_preference	状态栏
+title_termtype_preference	终端类型
+title_use_keyboard_shortcuts	启用键盘快捷键
+title_utf8_by_default_preference	默认使用 UTF-8
+title_verify_path_preference	校验 PATH 条目
+toggle_soft_keyboard	切换软键盘
+try_premium_dialog_title	立即试用高级版！
+unable_load_prices	无法加载价格，请检查网络连接
+uninstall	卸载
+uninstall_library	卸载 %s
+update_python_message	要保留全部已安装的库吗？
+update_save_libs	保存已安装的库
+update_title	Python 需要更新
+use_keyboard_shortcuts_summary_off	键盘快捷键已禁用。
+use_keyboard_shortcuts_summary_on	Ctrl-Tab：切换窗口，Ctrl-Shift-N：新建窗口，Ctrl-Shift-V：粘贴。
+version	版本
+view_only	仅查看
+warn_user_about_lifetime_pos	购买
+warn_user_about_lifetime_title	订阅状态更新
+watch_set_btn	设置
+watermark_label_prefix	AdMob - 
+window_list	窗口
+window_title	窗口 %1$d
