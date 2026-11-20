@@ -1,0 +1,828 @@
+UNDO	UNDO
+abc_action_bar_home_description	Navigate home
+abc_action_bar_up_description	Navigate up
+abc_action_menu_overflow_description	More options
+abc_action_mode_done	Done
+abc_activity_chooser_view_see_all	See all
+abc_activitychooserview_choose_application	Choose an app
+abc_capital_off	OFF
+abc_capital_on	ON
+abc_menu_alt_shortcut_label	Alt+
+abc_menu_ctrl_shortcut_label	Ctrl+
+abc_menu_delete_shortcut_label	delete
+abc_menu_enter_shortcut_label	enter
+abc_menu_function_shortcut_label	Function+
+abc_menu_meta_shortcut_label	Meta+
+abc_menu_shift_shortcut_label	Shift+
+abc_menu_space_shortcut_label	space
+abc_menu_sym_shortcut_label	Sym+
+abc_prepend_shortcut_label	Menu+
+abc_search_hint	Search…
+abc_searchview_description_clear	Clear query
+abc_searchview_description_query	Search query
+abc_searchview_description_search	Search
+abc_searchview_description_submit	Submit query
+abc_searchview_description_voice	Voice search
+abc_shareactionprovider_share_with	Share with
+abc_shareactionprovider_share_with_application	Share with %s
+abc_toolbar_collapse_description	Collapse
+action_autocomplete	Autocomplete
+action_continue	Continue
+action_delete	Delete
+action_get_help	GET STORAGE ACCESS
+action_getnames	Get names
+action_go_to_assignments	Go to assignments
+action_go_to_definitions	Go to definitions
+action_gotoline	Go to line
+action_gotoline_hint	Go to line
+action_new_folder	New folder
+action_open_project	Open project
+action_open_project_view	Open project view
+action_press_tab_title	TAB
+action_redo	Redo
+action_rename	Rename
+action_run_foreground	Minimize
+action_run_in_terminal	Run in terminal
+action_run_sdl2	Run SDL2
+action_run_with_arguments	Run with arguments
+action_search	Search
+action_search_hint	Search
+action_search_jump_backward	Jump backward
+action_search_jump_forward	Jump forward
+action_search_lib	Search
+action_settings	Settings
+action_tabbackward	Tab back
+action_tabforward	Tab forward
+action_undo	Undo
+action_update_to_project	Upgrade to project
+activity_shortcut_create	Term shortcut
+activity_term_here_title	Term here
+ad	Ad
+addshortcut_arguments_label	Arguments:
+addshortcut_button_find_command	Find command
+addshortcut_button_text_icon	Text icon
+addshortcut_command_hint	command
+addshortcut_command_window_instructions	Command window requires full path, no arguments. For other commands use Arguments window (ex: cd /sdcard).
+addshortcut_example_hint	--example="a"
+addshortcut_make_text_icon	MAKE TEXT ICON
+addshortcut_navigator_title	SELECT SHORTCUT TARGET
+addshortcut_shortcut_label	Shortcut label:
+addshortcut_text_icon_instructions	
+addshortcut_title	Term shortcut
+addtional_permissions	Additional permissions
+admob_add_id	ca-app-pub-3971777818817155~5209393689
+admob_interstitial_ad_id	ca-app-pub-3971777818817155/3714394909
+admob_publisher_id	pub-3971777818817155
+alert_perm_den_message	Permission required to continue
+alert_perm_den_pos	OK
+alert_perm_den_title	Allow permission
+all	All
+already_have_this_file	This name is already used in this folder, do you want to overwrite it?
+alt_sends_esc	Alt key sends ESC
+alt_sends_esc_summary_off	Alt key does not send ESC.
+alt_sends_esc_summary_on	Alt key sends ESC.
+analysis_convention	Convention
+analysis_error	Error
+analysis_fatal	Fatal
+analysis_hint	Hint
+analysis_information	Information
+analysis_refactor	Refactor
+analysis_warning	Warning
+androidx_startup	androidx.startup
+app_name_from_build	Pydroid 3
+appbar_scrolling_view_behavior	com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior
+appearance_app_theme_summary	Theme will be changed after restart
+application_terminal	Terminal Emulator
+attachment_summary_off	Only download attachments when manually requested
+attachment_summary_on	Automatically download attachments for incoming emails
+attachment_title	Download incoming attachments
+author_0	olusegun
+author_1	Jeff Stock
+author_2	ghostysouls
+author_3	Holy Faith
+author_4	Sydney Chako
+author_5	Ty johnston
+author_6	Ian Jamieson
+bad_input_is_empty_mask	%s is empty
+bottom_sheet_behavior	com.google.android.material.bottomsheet.BottomSheetBehavior
+bottomsheet_action_expand_halfway	Expand halfway
+cancel	Cancel
+category	Category:
+category_descr_all	All samples
+character_counter_content_description	Characters entered %1$d of %2$d
+character_counter_overflowed_content_description	Character limit exceeded %1$d of %2$d
+character_counter_pattern	%1$d/%2$d
+checkSharedLibsDialogMessage	Due to the recent Android OS bug, a dlopen hack is required to replace now missing LD_LIBRARY_PATH functionality in Kivy mode. It is not perfectly stable, so Kivy may crash on start. Press OK to enable it, or cancel to load shared libraries manually with ctypes.
+checkSharedLibsDialogTitle	Custom shared library detected
+check_libraries_repository	Use prebuilt libraries repository
+chip_text	Chip text
+clear_text_end_icon_content_description	Clear text
+close	Close
+close_window	Close window
+cmake_add_failed_format	Failed to parse CMakeLists.txt, please add this library manually
+cmake_add_failed_io	Unhandled exception during library addition
+cmake_add_failed_no_libs	No libraries installed yet, so nothing to add
+code_analysis_convention	Conventions
+code_analysis_convention_summary	List of conventions to show
+code_analysis_disable_msg	Disable message
+code_analysis_disable_msgs	Disable messages
+code_load_prefix	
+colorvalue_icon_text_entry_hint	Enter icon text
+colorvalue_label_lock_button_column	LOCK
+colorvalue_letter_alpha	α
+colorvalue_letter_blue	B
+colorvalue_letter_green	G
+colorvalue_letter_red	R
+common_google_play_services_enable_button	Enable
+common_google_play_services_enable_text	%1$s won't work unless you enable Google Play services.
+common_google_play_services_enable_title	Enable Google Play services
+common_google_play_services_install_button	Install
+common_google_play_services_install_text	%1$s won't run without Google Play services, which are missing from your device.
+common_google_play_services_install_title	Get Google Play services
+common_google_play_services_notification_channel_name	Google Play services availability
+common_google_play_services_notification_ticker	Google Play services error
+common_google_play_services_unknown_issue	%1$s is having trouble with Google Play services. Please try again.
+common_google_play_services_unsupported_text	%1$s won't run without Google Play services, which are not supported by your device.
+common_google_play_services_update_button	Update
+common_google_play_services_update_text	%1$s won't run unless you update Google Play services.
+common_google_play_services_update_title	Update Google Play services
+common_google_play_services_updating_text	%1$s won't run without Google Play services, which are currently updating.
+common_google_play_services_wear_update_text	New version of Google Play services needed. It will update itself shortly.
+common_open_on_phone	Open on phone
+common_signin_button_text	Sign in
+common_signin_button_text_long	Sign in with Google
+compiler_output	Compiler output
+complete	Complete
+confirm_removal	Please confirm file removal
+confirm_removal_message	Are you sure that you want to delete %s?
+confirm_window_close_message	Close this window?
+consent_status_summary	Controls both ad tailoring and crash reports & analytics collection
+consent_status_title	Allow data collection
+control_key_dialog_control_disabled_text	No control key set.
+control_key_dialog_fn_disabled_text	No function key set.
+control_key_dialog_title	Control and Function Keys
+copy_all	Copy all
+copy_paste_mode_comment_text	Comment
+copy_paste_mode_copy	Copy
+copy_paste_mode_cut	Cut
+copy_paste_mode_paste	Paste
+copy_paste_mode_select_all	Select all
+copy_pastemode_comment_or_uncomment_text	Comment/uncomment
+copy_pastemode_uncomment_text	Uncomment
+copy_toast_msg	Link copied to clipboard
+create	Create
+creating_project	Creating project
+default_web_client_id	691348516895-i0l8n81475jpl68r4vbn3k3ohgravm16.apps.googleusercontent.com
+define_fastadapter	year;owner
+delete	Delete
+dialog_allow	Allow
+dialog_deny	Deny
+dialog_do_you_want_to_save_changes	Do you want to save changes?
+dialog_enter_name_title	File name
+dialog_go_to_line_positive_button_find	Go
+dialog_title	File picker
+dialog_title_actionbar_preference	Action bar behavior
+dialog_title_backaction_preference	Back button behavior
+dialog_title_color_preference	Text color
+dialog_title_controlkey_preference	Control key
+dialog_title_cursorblink_preference	Cursor blink
+dialog_title_cursorstyle_preference	Cursor style
+dialog_title_fnkey_preference	Fn key
+dialog_title_fontsize_preference	Font size
+dialog_title_ime_preference	Input method
+dialog_title_initialcommand_preference	Initial Command
+dialog_title_orientation_preference	Screen orientation behavior
+dialog_title_shell_preference	Shell
+dialog_title_statusbar_preference	Status bar
+dialog_title_termtype_preference	Terminal type
+disable_wakelock	Drop WakeLock
+disable_wifilock	Drop WifiLock
+do_you_want_install_it	Do you want to install missing libraries now?
+doc_dir_sync_dialog_title	Synchronizing files…
+donate_1	Donate $1
+donate_10	Donate $10
+donate_2	Donate $2
+donate_3	Donate $3
+donate_5	Donate $5
+download_sample	Download
+edit_text	Edit text
+editor_btn_bar_default_value	\t : ; ' # ( ) [ ] { } < > = - + * / ^ % $ | ! ? _
+editor_btn_bar_summary	Insert buttons separated by space
+editor_btn_bar_title	Bar buttons list
+editor_open_last_files	Preserve files on exit
+editor_open_last_files_summary	Saves the state of your files when you close the application and reopens them when you return
+editor_tools	Editor tools
+email_transcript_chooser_title	Mail transcript using:
+email_transcript_no_email_activity_found	Could not choose an email activity to send transcript.
+email_transcript_subject	Transcript from Terminal Emulator for Android
+empty_string	
+enable_android7_hack_btn	OK
+enable_wakelock	Take WakeLock
+enable_wifilock	Take WifiLock
+enter_another	Enter another
+enter_command_dialog_pip	pip
+enter_command_pip_hint	install requests
+enter_name_dialog_name	Name:
+enter_name_dialog_positive_button	Save
+enter_name_dialog_title	Save file
+enter_pip_command_dialog_positive_button	run
+error_file_instead_of_proj_directory	Error: %s is not a directory, but a file for some reason. Please delete it before proceeding
+error_icon_content_description	Error
+exit	Exit
+exit_someone_has_changes_dialog	Some files were not saved, do you want to save changes?
+exposed_dropdown_menu_content_description	Show dropdown menu
+extracing_files	Extracting files
+extract_sample	Extract
+fab_transformation_scrim_behavior	com.google.android.material.transformation.FabTransformationScrimBehavior
+fab_transformation_sheet_behavior	com.google.android.material.transformation.FabTransformationSheetBehavior
+fallback_menu_item_copy_link	Copy link
+fallback_menu_item_open_in_browser	Open in browser
+fallback_menu_item_share_link	Share link
+fastadapter_lib_version	5.6.0
+fatal_error_msg	Your application encountered a fatal error and cannot continue.
+fcm_fallback_notification_channel_label	Miscellaneous
+feedback_send	Send
+feedback_send_hint	Suggest your improvements
+file_already_exists	File %s already exists
+file_group_title	File
+file_tools	File tools
+file_was_saved_part1	File:
+file_was_saved_part2	was saved
+file_wasnot_saved	File was not saved!
+firebase_database_url	https://iiec-pydroid.firebaseio.com
+fix_it	Fix it
+folder_name	Pydroid3
+following_libraries_are_missing	Following libraries are missing:
+forever_offer_text_1	Purchase forever
+forever_offer_text_2	Pay %s once for lifetime access to premium features
+forever_offer_text_2_unloaded	Pay once for lifetime access to premium features
+found_libraries	Found missing libraries
+fsnavigator_change_theme	Change theme
+fsnavigator_no_external_storage	External storage not available
+fsnavigator_optional_enter_path	Or enter path here.
+fsnavigator_title	FILE SELECTOR
+gcm_defaultSenderId	691348516895
+get_file_cancel	Cancel
+get_file_confirm	Confirm
+get_file_confirm_delete	Confirm delete
+get_file_confirm_delete_desc	Are you sure you want to delete this file or folder?
+get_name_dialog_title	Names
+get_name_dialog_type_all	All
+get_name_dialog_type_class	Classes
+get_name_dialog_type_forsmth	For loops
+get_name_dialog_type_func	Functions
+get_name_dialog_type_import	Import
+get_name_dialog_type_statement	Statements
+go_to_gp	Go to Google Play
+go_to_gp_dialog_cancel	Cancel
+go_to_gp_dialog_ok	Ok
+go_to_line_dialog_line	Line:
+go_to_line_dialog_title_lines	Enter line: 1 -
+google_api_key	AIzaSyDr3or3PaRyD_reC_P9lh9umiRX7pTGOD8
+google_app_id	1:691348516895:android:1fdd07371e470f14
+google_crash_reporting_api_key	AIzaSyDr3or3PaRyD_reC_P9lh9umiRX7pTGOD8
+google_storage_bucket	iiec-pydroid.appspot.com
+hasChangesTitlePostfix	*
+hasChangesTitlePrefix	
+hello_blank_fragment	Hello blank fragment
+help	Help
+help_allow	Allow
+help_message	To manage files, grant the app permission to access all files in the settings
+help_title	All files access is required!
+help_url	http://jackpal.github.com/Android-Terminal-Emulator/help/index.html
+hide_bottom_view_on_scroll_behavior	com.google.android.material.behavior.HideBottomViewOnScrollBehavior
+hover_view_how_to	Please place cursor on a class, variable or function first
+hueferences	Preferences
+ic_add	
+ic_add_lib	
+ic_close	
+ic_drive_file	
+ic_email	
+ic_folder	
+ic_keyboard_arrow_down	
+ic_keyboard_arrow_right	
+ic_laptop	
+ic_photo	
+ic_photo_library	
+ic_remove	
+icon_content_description	Dialog Icon
+install	Install
+install_pydroid_quick_install_repository_confirm_disable	Are you sure you want to disable prebuilt libraries repository?
+install_pydroid_quick_install_repository_confirm_disable_desc	This will make some libraries not installable without manual installation of dependencies and will significantly increase build times. This will also remove access to premium-only libraries.
+install_pydroid_quick_install_repository_disable	Disable repo
+install_pydroid_quick_install_repository_install	Get plugin
+install_pydroid_quick_install_repository_title	Pydroid repository plugin is missing
+installing_python	Installing Python…
+installing_wait	Installing...Wait
+item_view_role_description	Tab
+jedi_tools	Jedi tools
+just_logs	Logs
+keep_old_android7_hack_btn	Cancel
+keyboard_preferences	Keyboard
+lang_name	Python 3
+last_opened	Last opened
+library_fastadapter_author	Mike Penz
+library_fastadapter_authorWebsite	http://mikepenz.com/
+library_fastadapter_isOpenSource	true
+library_fastadapter_libraryDescription	<b>FastAdapter</b>, the bullet proof, fast and easy to use adapter library, which minimizes developing time to a fraction...
+library_fastadapter_libraryName	FastAdapter
+library_fastadapter_libraryWebsite	https://github.com/mikepenz/FastAdapter
+library_fastadapter_licenseId	apache_2_0
+library_fastadapter_owner	Mike Penz
+library_fastadapter_repositoryLink	https://github.com/mikepenz/FastAdapter
+library_fastadapter_year	2018
+license_key_gp_from_build	MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhi2YRuf+Ol53JVWolk8UDdxtCt3I14rJIqYjVIk4ORqC7hDYChlVOHyNcb9esXVE0yOKygagnHewQan8AVgdnT9lHp2h8et8mi+0jrii1CvAH9PyikFuoq20L0o5N+Z7oX3SiEgBzzZObPWdPowEajmd4xn5gKp6Dz4A45f/6sBKfmzrBiLTxfokGRU4HUYLOZdMa1bu/df90WtD+QRVb3zRTVBHQM+YbN44WzkewDIjvyLAixiC5cFkj0/0rCCPFfCmA2s/J9pz+9gvYxx6RhZBb21jvRGSB5g6OrH7Z5aOPTf3myO0bmoqEthrBzk1kZir2gnW6YxubjP66+tW0QIDAQAB
+loading_error	Loading error
+loading_src	Loading package
+loading_src_zip	Downloading src.zip
+logs	%s logs
+material_clock_display_divider	:
+material_clock_toggle_content_description	Select AM or PM
+material_hour_selection	Select hour
+material_hour_suffix	%1$s o'clock
+material_minute_selection	Select minutes
+material_minute_suffix	%1$s minutes
+material_motion_easing_accelerated	cubic-bezier(0.4, 0.0, 1.0, 1.0)
+material_motion_easing_decelerated	cubic-bezier(0.0, 0.0, 0.2, 1.0)
+material_motion_easing_emphasized	path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)
+material_motion_easing_linear	cubic-bezier(0.0, 0.0, 1.0, 1.0)
+material_motion_easing_standard	cubic-bezier(0.4, 0.0, 0.2, 1.0)
+material_slider_range_end	Range end,
+material_slider_range_start	Range start,
+material_timepicker_am	AM
+material_timepicker_clock_mode_description	Switch to clock mode for the time input.
+material_timepicker_hour	Hour
+material_timepicker_minute	Minute
+material_timepicker_pm	PM
+material_timepicker_select_time	Select time
+material_timepicker_text_input_mode_description	Switch to text input mode for the time input.
+messages_header	Messages
+ministro_needed_msg	This application requires Ministro service. Would you like to install it from Google Play?
+mtrl_badge_numberless_content_description	New notification
+mtrl_chip_close_icon_content_description	Remove %1$s
+mtrl_exceed_max_badge_number_content_description	More than %1$d new notifications
+mtrl_exceed_max_badge_number_suffix	%1$d%2$s
+mtrl_picker_a11y_next_month	Change to next month
+mtrl_picker_a11y_prev_month	Change to previous month
+mtrl_picker_announce_current_selection	Current selection: %1$s
+mtrl_picker_date_header_selected	%1$s
+mtrl_picker_date_header_title	Select Date
+mtrl_picker_date_header_unselected	Selected date
+mtrl_picker_day_of_week_column_header	Column of days: %1$s
+mtrl_picker_invalid_format	Invalid format.
+mtrl_picker_invalid_format_example	Example: %1$s
+mtrl_picker_invalid_format_use	Use: %1$s
+mtrl_picker_invalid_range	Invalid range.
+mtrl_picker_navigate_to_year_description	Navigate to year %1$s
+mtrl_picker_out_of_range	Out of range: %1$s
+mtrl_picker_range_header_only_end_selected	Start date – %1$s
+mtrl_picker_range_header_only_start_selected	%1$s – End date
+mtrl_picker_range_header_selected	%1$s – %2$s
+mtrl_picker_range_header_title	Select Range
+mtrl_picker_range_header_unselected	Start date – End date
+mtrl_picker_save	Save
+mtrl_picker_text_input_date_hint	Date
+mtrl_picker_text_input_date_range_end_hint	End date
+mtrl_picker_text_input_date_range_start_hint	Start date
+mtrl_picker_text_input_day_abbr	d
+mtrl_picker_text_input_month_abbr	m
+mtrl_picker_text_input_year_abbr	y
+mtrl_picker_toggle_to_calendar_input_mode	Switch to calendar input mode
+mtrl_picker_toggle_to_day_selection	Tap to switch to selecting a day
+mtrl_picker_toggle_to_text_input_mode	Switch to text input mode
+mtrl_picker_toggle_to_year_selection	Tap to switch to selecting a year
+native_body	Body
+native_headline	Headline
+native_media_view	Media View
+nav_close_cur_tab	Close
+nav_examples	Samples
+nav_feedback	Feedback and improvement
+nav_get_premium	Get premium
+nav_header_titles_line	Line:
+nav_header_titles_lineoffset	Line offset:
+nav_lib_base	Popular libraries
+nav_more_ides	Get more IDEs
+nav_new_file	New
+nav_open_file	Open
+nav_pastebin	Pastebin
+nav_privacy_policy	Privacy policy
+nav_python_interpreter	Interpreter
+nav_recent_files	Recent files
+nav_run_logs	Graphical program output
+nav_run_pip	Pip
+nav_run_terminal	Terminal
+nav_sample_files	Samples
+nav_save_file	Save
+nav_save_file_as	Save as
+nav_settings	Settings
+nav_share_button	Share
+nav_terminal_settings	Terminal settings
+navigation_drawer_close	Close navigation drawer
+navigation_drawer_open	Open navigation drawer
+new_file_text	newfile.py
+new_file_text2	new_file.py
+new_folder_text	New folder
+new_window	New window
+next_window	Next window
+no	No
+no_assignments_found	No assignments found
+no_code_names_found	No names found
+no_definitions_found	No definitions found
+no_permission	No permission:
+no_project_opened_text	Project view is available in projects only
+no_recentfiles_found	No recent files found
+not_interested	Not interested
+notifications_permission_confirm	Allow
+notifications_permission_decline	Don't allow
+notifications_permission_title	Allow app to send you notifications?
+offline_notification_text	Tap to open ad
+offline_notification_title	View the ad you saved when you were offline
+offline_opt_in_confirm	OK
+offline_opt_in_confirmation	You'll get a notification with the link when you're back online
+offline_opt_in_decline	No thanks
+offline_opt_in_message	We'll send you a notification with a link to the advertiser site.
+offline_opt_in_title	Open ad when you're back online.
+onboarding_paywall_desc	These premium features are selected especially for you
+onboarding_q1_o1	I am absolutely new to this
+onboarding_q1_o2	I did small coding projects
+onboarding_q1_o3	I am an experienced programmer
+onboarding_q1_title	What is your %LANGNAME% programming experience?
+onboarding_q2_o1	Learning, I'm planning to learn %LANGNAME%
+onboarding_q2_o2	Hobby, I'm planning to use this program for fun
+onboarding_q2_o3	Professional work, I'm planning to do some quick prototyping, software porting or teaching
+onboarding_q2_title	What are you planning to use %APPNAME% for?
+onboarding_q3_o1	Simple terminal or web programs
+onboarding_q3_o2	Graphical user interface programs
+onboarding_q3_o3	Machine Learning and AI programs
+onboarding_q3_title	What types of programs are you planning to run?
+onboarding_settings1_desc	Auto-save editor state whenever you close the app, prevents accidental data loss
+onboarding_settings2_desc	Always use dark theme. System-wide setting will be used otherwise
+onboarding_settings3_desc	Make tab button insert spaces: it's a matter of preference, but if you don't have any, we recommend to leave tab inserting tabs. In Python it is very important to keep your indentation style consistent
+onboarding_settings_desc	You will be able to access these and other settings later from the app side menu
+onboarding_settings_title	Let's tweak some preferences
+onboarding_title_2	What is your programming experience?
+onboarding_title_3	What are you going to use @string/app_name for?
+onboarding_title_4	What type of programs are you going to write?
+onboarding_welcome_title	Welcome to %1$s!
+open_file_problem	Open file error
+open_new_file_title	new
+open_sample	Open
+others_perm_denied	Cannot proceed without permissions
+overflow_menu	Tools
+override	Overwrite
+password_toggle_content_description	Show password
+paste	Paste
+pastebin_copy_url	Copy url
+pastebin_load	Paste published!
+pastebin_post_error	PasteBin: Something wrong:
+pastebin_send_url	Send url
+pastebin_url_was_copied	Url was copied
+pastebin_warning_desc	Your source code will be available on pastebin.com by a direct link only
+pastebin_warning_neveragain	Don't ask again
+pastebin_warning_title	Are you sure you want to publish a paste?
+path_field_hint	Keep empty if not save
+path_password_eye	M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z
+path_password_eye_mask_strike_through	M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z
+path_password_eye_mask_visible	M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z
+path_password_strike_through	M3.27,4.27 L19.74,20.74
+paywall_ads	Whatever you are planning to use Pydroid 3 for, having no advertisements is always a nice bonus
+paywall_code_analysis_advanced	Real-time analysis can catch some complicated bugs right at the time of writing the code
+paywall_code_analysis_basic	Real-time error checking will let you find and fix errors in programs in a fast and friendly way
+paywall_code_prediction_advanced	Code completion greatly increases productivity and is a must for any kind of professional work
+paywall_code_prediction_basic	Automatic code completion will make programming fast and fun even on a mobile device
+paywall_libs_ai	Customized ports of TensorFlow and PyTorch are available among these libraries
+paywall_libs_gui	Make full-featured GUI apps with Kivy, Plyer and OpenCV computer vision library
+paywall_libs_reason_basic	Install any premium library without any limits
+paywall_proceed	Continue
+paywall_proceed_trial	Try for free
+pdb_add_watch	Add watch
+pdb_add_watch_add	Add
+pdb_add_watch_message	Enter watch expression
+pdb_add_watch_title	Add watch
+pdb_continue	Continue
+pdb_detach	Detach
+pdb_next	Next
+pdb_return	Return
+pdb_set_watch_message_for	Enter new value for %1$s
+pdb_set_watch_set	Set
+pdb_set_watch_title	Set watch
+pdb_step	Step
+pdb_text	Waiting for PDB...
+pdb_watch_already_exists	watch already exists
+perm_append_to_path	Add commands to Terminal Emulator
+perm_prepend_to_path	Override commands in Terminal Emulator
+perm_run_script	Run arbitrary commands in Terminal Emulator
+permdesc_append_to_path	Allows application to provide additional commands (add directories to the PATH) for Terminal Emulator for Android.
+permdesc_prepend_to_path	Allows application to override existing commands with its own versions (prepend directories to the PATH) in Terminal Emulator for Android.
+permdesc_run_script	Allows application to open new windows in Terminal Emulator for Android and run commands in those windows with all of Terminal Emulator for Android's permissions, including access to the Internet and your SD Card.
+pick_dir_title	Select directory
+pip_command_hint	Library name
+pip_exec_title	Install
+pip_install_fragment_title	Install
+pip_list_fragment_title	Libraries
+pip_premium_only	This library requires premium
+pip_search_hint	Library name (or part)…
+pip_search_lib_fragment_title	Search libraries
+pip_search_title	Search
+please_pick_correct_dir	Unable to confirm that selected directory is %s. Please pick correct directory so %s can continue
+please_pick_correct_dir_title	Configuration error
+pref_appearance_app_theme	Application theme
+pref_appearance_editor_theme	Editor theme
+pref_appearance_editor_theme_dark	Editor theme (dark)
+pref_appearance_fullscreen	Full screen
+pref_appearance_fullscreen_summary	Hide status bar
+pref_appearance_theme	Theme
+pref_backaction_default	0
+pref_category_gui_settings	GUI settings
+pref_code_analysis_enabled	Enable
+pref_code_analysis_show_convention	Show convention
+pref_code_analysis_show_error	Show error
+pref_code_analysis_show_fatal	Show fatal
+pref_code_analysis_show_refactor	Show refactor
+pref_code_analysis_show_warning	Show warning
+pref_color_default	1
+pref_controlkey_default	5
+pref_cursorblink_default	0
+pref_cursorstyle_default	0
+pref_default_display_name	John Smith
+pref_description_social_recommendations	Recommendations for people to contact based on your message history
+pref_editor_allow_suggestions	Allow keyboard suggestions
+pref_editor_autoinsert_braces	Autocomplete quotes/braces
+pref_editor_autosave	Autosave files
+pref_editor_btn_bar	Button bar
+pref_editor_dark	Dark theme
+pref_editor_dark_summary	If unset system default theme is used
+pref_editor_font	Font
+pref_editor_font_size	Font size
+pref_editor_tab_insert_spaces	Tab inserts spaces
+pref_editor_tab_length	Tab length
+pref_editor_volume_nav	Volume navigation
+pref_editor_word_wrap	Word wrap
+pref_fnkey_default	4
+pref_fontsize_default	10
+pref_header_about	About & Legal
+pref_header_appearance	Appearance
+pref_header_code_analysis	Code analysis
+pref_header_data_sync	Data & sync
+pref_header_editor	Editor
+pref_header_general	General
+pref_header_notifications	Notifications
+pref_header_system	System
+pref_ime_default	0
+pref_initialcommand_default	
+pref_interpreter_name	Interpreter name
+pref_interpreter_name_default_value	python3
+pref_interpreter_name_summary	Which program to run when Interpreter menu item is selected
+pref_omp_num_threads_name	OMP_NUM_THREADS value
+pref_omp_num_threads_summary	Amount of threads used in libraries that use OpenMP (e.g. OpenBLAS). Also affects RAM usage
+pref_pro_info_summary	This version is also suitable for non-personal use on one device per purchase
+pref_pro_info_title	Professional license
+pref_pro_support_summary	Professional users can use a separate pro-only email address for support
+pref_pro_support_title	Contact support
+pref_ringtone_silent	Silent
+pref_shell_default	/system/bin/sh -
+pref_shell_path	Custom shell path
+pref_shell_path_default_value	
+pref_shell_path_summary	Absolute path to the shell used to run programs (empty for default)
+pref_statusbar_default	1
+pref_summary_double_back_quit	Use double click back key to close GUI programs
+pref_summary_first_fullscreen	If set, the first window created automatically gets fullscreen
+pref_summary_kbd	If set, keyboard is shown when program launches
+pref_summary_show_titlebar	If not set, the program runs in fullscreen mode
+pref_summary_use_android7_hack	Use only if you have custom shared libraries
+pref_termtype_default	screen
+pref_title_add_friends_to_messages	Add friends to messages
+pref_title_display_name	Display name
+pref_title_double_back_quit	Use double back to quit
+pref_title_enable_autocomplete	Enable autocomplete
+pref_title_first_fullscreen	Tkinter: maximize first window
+pref_title_new_message_notifications	New message notifications
+pref_title_pip_build_isolation	Disable build isolation in pip
+pref_title_ringtone	Ringtone
+pref_title_social_recommendations	Enable social recommendations
+pref_title_sync_frequency	Sync frequency
+pref_title_system_sync_settings	System sync settings
+pref_title_use_android7_hack	Enable Kivy dlopen hack
+pref_title_vibrate	Vibrate
+preferences	Preferences
+premium	Premium
+prev_window	Prev window
+private_version	0.1
+process_exit_message	Program finished
+process_problem	Problem
+project_id	iiec-pydroid
+project_name	Project: %s
+promo_text_after_run	Always wanted to learn C⁠+⁠+, but were afraid to start? Now you can do this with the same level of comfort as in Pydroid with our brand new IDE for C⁠+⁠+⁠: Cxxdroid.
+promo_text_install	Check out our new IDE for C⁠+⁠+ designed to be exactly as handy and easy to use as Pydroid. Batteries included: install most popular libraries in just two clicks.
+promo_title_after_run	Try our new IDE for C++
+promo_title_install	While Pydroid installs…
+public_directory_help_dialog_pos	Start
+public_directory_help_dialog_title	Public docs configuration
+purchase_cancel	Cancel
+purchase_freetitle	Free
+purchase_minus	✗
+purchase_p1	Basic code editor
+purchase_p2	Basic libraries
+purchase_p2_1	Premium libraries
+purchase_p3	Code prediction
+purchase_p4	Code analysis
+purchase_p5	No ads
+purchase_plus	✓
+purchase_premium	Purchase
+purchase_premium_dialog_pos	Purchase
+purchase_premium_dialog_title	Choose your plan
+purchase_premium_dialog_title_no_subscriptions	Get premium
+purchase_premium_forever	Purchase forever
+purchase_premium_mounthly	Try for free
+purchase_premium_mounthly_old	Subscribe per month
+purchase_premium_text_bottom	Free trial converts to a paid subscription after it ends, if you don't cancel it. The subscription renews automatically and charges each month. Cancel or manage your subscription on Google Play anytime.
+purchase_premiumtitle	Premium
+purchase_purchase	Purchase
+purchase_subscription	Subscription
+py_promo_text_install	Check out our IDE for Python designed to be exactly as handy and easy to use as Cxxdroid. Batteries included: install most popular libraries in just two clicks.
+py_promo_title_install	Meanwhile…
+pydroid_need_permplugin	Pydroid permission plugin is missing
+pydroid_need_permplugin_get	Get plugin
+qt_do_you_want_install_it	Do you want to install it from Quick Install?
+qt_is_not_installed	You are trying to run PySide6 program without PySide6 module installed
+quick_install_fragment_title	Quick install
+quick_install_ok	OK
+quick_install_summary	Install from repository with prebuilt wheel packages
+rate_dialog_default_message	Please let us know, how much do you like this application
+rate_dialog_default_never_button_text	Close
+rate_dialog_default_not_now_button_text	Ask me later
+rate_dialog_default_rate_button_text	OK
+rate_dialog_default_title	Rate %s
+rationale_for_others	We need permissions to proceed
+rationale_for_samples	We need permission to save downloaded sample
+re_turn	Return
+recent_files_dialog_title	Recent files
+recent_opened_files	Recent opened
+remarket_paywall_desc	With premium you get access to all of the features of Pydroid
+remarket_paywall_title	Limited Time Offer
+remove	Remove
+removed_tab	Closed:
+repick_correct_dir	Try again
+reply_title	Default reply action
+require_premium_libs	These examples require premium-only libraries.
+reset	Reset term
+reset_toast_notification	This window's terminal state has been reset.
+retry	Retry
+review_0	This app is a great console for python code practice. The fact that it is offline makes it a great deal for me.
+review_1	Works great! The text editor is surprisingly nice, and the app runs scripts quickly and smoothly. Great job!
+review_2	Great for testing code on the go. If you have used a Bluetooth keyboard and maybe be mouse, you could replace a laptop with this.
+review_3	Finally this is the app I've been looking for. I've been using Pydroid 3 a while and seems very interesting. Just try!
+review_4	The best Python IDE for Android so far. I built a couple of big projects and it handles well.
+review_5	I paid for the unlocked version after using for a while to see how well it does. Hands down my favorite phone IDE. It works amazing. Love it!
+review_6	Best mobile IDE on the market. As a long-time user, it's always been fast, reliable, perfect for every application I could think of
+revome_all_libs	Clean install
+run	Run
+run_code_with_params	Enter command line arguments
+run_group_title	Run
+running_without_permission	Running without permission
+s1	Save image
+s2	Allow Ad to store image in Picture gallery?
+s3	Accept
+s4	Decline
+s5	Create calendar event
+s6	Allow Ad to create a calendar event?
+s7	Test Ad
+samples_perm_denied	No permission to save sample
+samples_title_courses	Courses
+samples_title_samples	Samples
+samples_title_tutorials	Tutorials
+save	Save
+save_all	Save all
+scoped_dialog_help_neg	Cancel
+scoped_dialog_help_pos	Grant Permissions
+scoped_dialog_help_pos_cool	Cool
+scoped_dialog_help_title_help	Scoped Storage Info
+scoped_dialog_help_title_welcome	Scoped Storage Info
+screen_preferences	Screen
+search_dialog_check_match_case	Match case
+search_dialog_negative_button	Cancel
+search_dialog_negative_button_replace	Replace
+search_dialog_neutral_button_replace_all	Replace all
+search_dialog_positive_button_find	Find
+search_dialog_replace	Replace with:
+search_dialog_search	Search:
+search_dialog_title	Search and replace
+search_menu_title	Search
+search_title	Search
+search_toast_N_matches	matches found for:
+search_toast_no_matches	No matches for:
+section_format	Hello World from section: %1$d
+select_text	Select text
+send_control_key	Send control key
+send_email	Share
+send_fn_key	Send fn key
+service_notify_text	Terminal session is running
+settings_group_title	Settings
+share_with_friends	Share app with friends
+sharedUserLabel	Pydroid
+shell_preferences	Shell
+show	Show
+show_dialog_path	Path to download:
+show_extract_dialog_path	Path to extract:
+show_logs	%s logs
+signature_title	Your signature
+snack_ads_action	Remove ads
+snack_ads_message_1	Don't like ads?
+snack_ads_message_2	Tired of ads?
+special_keys	Special keys
+status_bar_notification_info_overflow	999+
+sub_offer_text_1_unloaded	Subscribe
+sub_offer_text_2	Monthly subscription for %s/month after trial ends
+sub_offer_text_2_unloaded	Monthly subscription after trial ends
+subscription_manage_message	If you have an active subscription that you want to cancel, upgrade, downgrade or change - you can cancel it and subscribe to a new plan
+subscription_manage_positive	Manage
+subscription_manage_title	Subscription manage
+success_install	Python successfully installed
+summary_actionbar_preference	Choose the action bar's behavior.
+summary_allow_prepend_path_preference	Whether other apps should be allowed to override existing commands (add to the beginning of PATH).
+summary_backaction_preference	Choose what pressing the back button does.
+summary_close_window_on_process_exit_preference	Whether a window should close when its shell exits.
+summary_color_preference	Choose text color.
+summary_controlkey_preference	Choose control key.
+summary_cursorblink_preference	Choose cursor blink.
+summary_cursorstyle_preference	Choose cursor style.
+summary_do_path_extensions_preference	Whether other apps should be allowed to provide additional commands (add to PATH).
+summary_fnkey_preference	Choose Fn key.
+summary_fontsize_preference	Choose character height in points.
+summary_home_path_preference	Path to a writable folder to be used as HOME.
+summary_ime_preference	Choose input method for soft keyboard.
+summary_initialcommand_preference	Sent to the shell when it starts.
+summary_mouse_tracking_preference	Whether tap and scroll events should be sent as escape sequences to the terminal.
+summary_orientation_preference	Choose the screen orientation behavior.
+summary_shell_preference	Specify the shell command line.
+summary_statusbar_preference	Show/hide status bar.
+summary_termtype_preference	What terminal type to report to the shell.
+summary_utf8_by_default_preference	Whether UTF-8 mode is enabled by default.
+summary_verify_path_preference	Whether inaccessible directories should be removed from the PATH.
+sync_header	Sync
+sync_title	Sync email periodically
+system_pylint_args_default_value	--disable=W0311,W0312,W0614 --generated-members=torch.* --ignored-modules=cv2,pygame
+system_pylint_args_summary	Linter arguments (restart required)
+system_pylint_args_title	Additional pylint arguments
+text_preferences	Text
+text_selection_copy	Cut
+text_selection_cut	Cut
+text_selection_select_all	Select all
+text_was_copied	Text was copied
+title_actionbar_preference	Action bar
+title_activity_new_settings	NewSettingsActivity
+title_activity_pip	Pip
+title_activity_pip2	Pip2Activity
+title_activity_recent_files	RecentFilesAct
+title_activity_sample_files	SampleFIlesActivity
+title_activity_samples	Samples
+title_activity_settings	Settings
+title_allow_prepend_path_preference	Allow PATH prepend
+title_backaction_preference	Back button behavior
+title_close_window_on_process_exit_preference	Close window on exit
+title_color_preference	Colors
+title_controlkey_preference	Control key
+title_cursorblink_preference	Cursor blink
+title_cursorstyle_preference	Cursor style
+title_do_path_extensions_preference	Allow PATH extensions
+title_dpi_tkinter	Tkinter: screen DPI
+title_fnkey_preference	Fn key
+title_fontsize_preference	Font size
+title_home_path_preference	HOME folder
+title_ime_preference	Input method
+title_initialcommand_preference	Initial command
+title_kbd_pygame	Pygame: show keyboard
+title_kbd_sdl2	SDL2: show keyboard
+title_mouse_tracking_preference	Send mouse events
+title_orientation_preference	Screen orientation
+title_sample_detail	Sample Detail
+title_sample_list	Samples
+title_shell_preference	Command line
+title_show_titlebar_kivy	Kivy: show title bar
+title_show_titlebar_pygame	Pygame: show title bar
+title_show_titlebar_sdl2	SDL2: show title bar
+title_show_titlebar_tkinter	Tkinter: show title bar
+title_statusbar_preference	Status bar
+title_termtype_preference	Terminal type
+title_use_keyboard_shortcuts	Use Keyboard Shortcuts
+title_utf8_by_default_preference	Default to UTF-8
+title_verify_path_preference	Verify PATH entries
+toggle_soft_keyboard	Toggle soft keyboard
+try_premium_dialog_title	Try premium now!
+unable_load_prices	Unable to load prices, please check your Internet connection
+uninstall	Uninstall
+uninstall_library	Uninstall %s
+update_python_message	Do you want to keep all installed libraries?
+update_save_libs	Save installed libraries
+update_title	Python needs to be updated
+use_keyboard_shortcuts_summary_off	Keyboard shortcuts disabled.
+use_keyboard_shortcuts_summary_on	Ctrl-Tab: cycle window, Ctrl-Shift-N: new window, Ctrl-Shift-V: paste.
+version	Version
+view_only	View only
+warn_user_about_lifetime_pos	Purchase
+warn_user_about_lifetime_title	Subscription status update
+watch_set_btn	Set
+watermark_label_prefix	AdMob - 
+window_list	Windows
+window_title	Window %1$d
+yes	Yes
