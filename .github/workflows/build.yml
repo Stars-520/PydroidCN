@@ -1,0 +1,87 @@
+name: Build APK
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Set up Android SDK
+        uses: android-actions/setup-android@v3
+
+      - name: Install build-tools
+        run: |
+          sdkmanager "build-tools;34.0.0" "platforms;android-34" --sdk_root="$ANDROID_SDK_ROOT"
+          echo "$ANDROID_SDK_ROOT/build-tools/34.0.0" >> "$GITHUB_PATH"
+
+      - name: Fetch Xposed API
+        run: |
+          mkdir -p libs
+          curl -sSL -o libs/XposedBridgeApi-82.jar \
+            https://maven.aliyun.com/repository/public/de/robv/android/xposed/api/82/api-82.jar
+          test -s libs/XposedBridgeApi-82.jar
+
+      - name: Compile resources
+        run: |
+          mkdir -p build/classes build/gen
+          aapt2 compile --dir app/res -o build/res.zip
+          aapt2 link -o build/app-unsigned.apk \
+            -I "$ANDROID_SDK_ROOT/platforms/android-34/android.jar" \
+            --manifest app/AndroidManifest.xml \
+            --java build/gen build/res.zip \
+            --min-sdk-version 24 --target-sdk-version 34 \
+            --version-code 1 --version-name 1.0
+
+      - name: Compile Java
+        run: |
+          javac -source 8 -target 8 -nowarn -encoding UTF-8 \
+            -bootclasspath "$ANDROID_SDK_ROOT/platforms/android-34/android.jar" \
+            -cp "$ANDROID_SDK_ROOT/platforms/android-34/android.jar:libs/XposedBridgeApi-82.jar" \
+            -d build/classes \
+            $(find app/src -name '*.java') \
+            $(find build/gen -name '*.java') 2>&1 \
+            | grep -v 'bootstrap class path' | grep -v 'source value' \
+            | grep -v 'target value' | grep -v 'deprecat' || true
+          test -f build/classes/com/hsqs/pydroidcn/MainHook.class
+
+      - name: Build DEX
+        run: |
+          d8 --min-api 24 \
+            --lib "$ANDROID_SDK_ROOT/platforms/android-34/android.jar" \
+            --output build/ $(find build/classes -name '*.class')
+
+      - name: Package and align
+        run: python3 pack.py
+
+      - name: Sign
+        run: |
+          keytool -genkeypair -keystore ci.keystore -alias stars \
+            -keyalg RSA -keysize 2048 -validity 10000 \
+            -storepass 123456 -keypass 123456 \
+            -dname "CN=PydroidCN, OU=CI, O=Stars, L=CN, ST=CN, C=CN"
+          apksigner sign --ks ci.keystore --ks-key-alias stars \
+            --ks-pass pass:123456 --key-pass pass:123456 \
+            --v1-signing-enabled true --v2-signing-enabled true --v3-signing-enabled true \
+            --out PydroidCN.apk build/aligned.apk
+          apksigner verify PydroidCN.apk
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: PydroidCN-apk
+          path: PydroidCN.apk
