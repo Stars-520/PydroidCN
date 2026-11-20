@@ -1,0 +1,8 @@
+*.idsig
+*.keystore
+*.jks
+build/
+out/
+__pycache__/
+*.pyc
+.DS_Store
